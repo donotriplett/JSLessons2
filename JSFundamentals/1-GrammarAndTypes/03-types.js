@@ -34,4 +34,6 @@ let alternateForm = {
     3: "French"
 }
 
+console.log(alternateForm);
+
 console.log(firstArray[0]);
