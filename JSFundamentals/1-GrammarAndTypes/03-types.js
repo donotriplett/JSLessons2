@@ -13,6 +13,17 @@ console.log(third);
 console.log(typeof third);
 
 
+let firstName = "Donovan";
+let lastName = "Triplett";
+let houseNumber = 1150;
+let street = "116th st";
+let city = "Carmel";
+let state = "IN";
+let zipcode = 46114
+
+console.log(`${firstName} ${lastName}, ${houseNumber} ${street} ${city} ${state} ${zipcode}`)
+
+
 //Object
 let firstObject = {
     integer: 50,
